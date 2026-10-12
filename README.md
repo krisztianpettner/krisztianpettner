@@ -1,7 +1,8 @@
 ### Krisztián Pettner
 
-**Systems architect.** I design end-to-end systems under hard constraints — where data must not
-leave the house, one client must never see another, and a wrong number is worse than a missing one.
+**Systems architect.** I design end-to-end systems under hard constraints — where raw data must be
+processed only on hardware the owner controls, one client must never see another's data, and a
+wrong number is worse than a missing one.
 
 I work as the **architect of an AI development team**: I design the system, the agents write the
 code to that design, and I hold the constraints and the gates, review every decision, and measure
@@ -11,9 +12,14 @@ whether it worked.
 
 #### Featured work
 
-| | |
-|---|---|
-| **[Dat[AI]nsight — an invoice-processing platform, built and closed](https://github.com/krisztianpettner/datainsight-case-study)** | A no-cloud document-processing service for Portuguese small businesses and their accountants: tiered PDF parsing anchored to the tax-authority QR code, a per-field confidence gate with a human review desk, a two-sided product, billing, and a three-node deployment. 1,564 commits; the system worked, the business did not take off — the [post-mortem](https://github.com/krisztianpettner/datainsight-case-study/blob/main/docs/en/09-post-mortem.md) says why. English and Hungarian. |
+**[Dat[AI]nsight — an invoice-processing platform, built and closed](https://github.com/krisztianpettner/datainsight-case-study)**
+A no-cloud document-processing service for Portuguese small businesses and their accountants:
+tiered PDF parsing anchored to the tax-authority QR code, a per-field identity gate with a human
+review desk, a two-sided product, and a three-machine pipeline bridge with no inbound access to the
+processing site. 1,564 commits over 6+ months. Header extraction worked, line items did not reach
+the bar, and the business did not take off — the
+[post-mortem](https://github.com/krisztianpettner/datainsight-case-study/blob/main/docs/en/09-post-mortem.md)
+says why. English and Hungarian.
 
 #### How I work
 
