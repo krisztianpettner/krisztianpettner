@@ -18,7 +18,7 @@ tiered PDF parsing anchored to the tax-authority QR code, a per-field identity g
 review desk, a two-sided product, and a three-machine pipeline bridge with no inbound access to the
 processing site. 1,564 commits over 6+ months. Header extraction worked, line items did not reach
 the bar, and the business did not take off — the
-[post-mortem](https://github.com/krisztianpettner/datainsight-case-study/blob/main/docs/en/09-post-mortem.md)
+[post-mortem](https://github.com/krisztianpettner/datainsight-case-study/blob/main/docs/en/12-post-mortem.md)
 says why. English and Hungarian.
 
 **[From spreadsheet chaos to a bank-grade dataset — a sales-data ETL case study](https://github.com/krisztianpettner/sales-data-etl-case-study)**
