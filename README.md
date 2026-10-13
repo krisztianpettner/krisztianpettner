@@ -1,8 +1,9 @@
 ### Krisztián Pettner
 
 **Systems architect.** I design end-to-end systems under hard constraints — where raw data must be
-processed only on hardware the owner controls, one client must never see another's data, and a
-wrong number is worse than a missing one.
+processed only on hardware the owner controls, one client must never see another's data, years of
+hand-typed records have to become trustworthy before anyone acts on them, and a wrong number is
+worse than a missing one.
 
 I work as the **architect of an AI development team**: I design the system, the agents write the
 code to that design, and I hold the constraints and the gates, review every decision, and measure
